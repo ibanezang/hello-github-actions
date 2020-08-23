@@ -7,7 +7,7 @@ inputs:
     description: "Who to greet"
     required: true
     default: "World"
-  MY_NAME:
+  MY_AGE:
     description: "My age"
     required: true
     default: "SECRET"
