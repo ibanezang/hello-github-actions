@@ -10,4 +10,4 @@ jobs:
       - uses: ./action-a
         with:
           MY_NAME: "Anang Satria"
-          MY_AGE: "SECRET"
+          MY_AGE: "50"
